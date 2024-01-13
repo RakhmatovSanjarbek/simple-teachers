@@ -85,7 +85,7 @@ class _MainPageState extends State<MainPage> {
           ),
         ],
         onTap: (index) {
-          log('current selected index $index');
+          log('current selected index  $index');
           _pageController.jumpToPage(index);
         },
       )

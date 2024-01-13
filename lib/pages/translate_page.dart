@@ -15,7 +15,7 @@ class _TranslatePageState extends State<TranslatePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Translate page'),
+        title: const Text('Translate page '),
       ),
       body: const Center(
         child: Text("Translate page"),

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:sipmle_teachers/pages/page_view.dart';
-import 'package:sipmle_teachers/pages/select_page.dart';
 
 class SplashPage extends StatelessWidget {
   const SplashPage({super.key});

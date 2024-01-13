@@ -44,7 +44,7 @@ class _MyPageViewState extends State<MyPageView> {
                     children: [
                       Lottie.asset("assets/lottie/pageview_book.json"),
                       const Text(
-                        "Books and daily topics in English",
+                        "Books and daily topics in English ",
                         style: TextStyle(
                           color: Color(0xff0509d3),
                           fontSize: 20.0,

@@ -15,7 +15,7 @@ class _ToDoPageState extends State<ToDoPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Todo page'),
+        title: const Text('Todo page '),
       ),
       body: const Center(
         child: Text("Todo page"),

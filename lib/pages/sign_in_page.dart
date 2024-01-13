@@ -25,7 +25,7 @@ class _SignInScreenState extends State<SignInScreen> {
           MaterialPageRoute(builder: (_) => const MainPage()),
               (route) => false);    } else {
       // Foydalanuvchi xato kiritgan
-      showErrorDialog("User name yoki parol xato!");
+      showErrorDialog("User name yoki parol xato! ");
     }
   }
 
